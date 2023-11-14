@@ -12,7 +12,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Content Include="Bot.csproj" />
+      <Content Include="myBot.csproj" />
     </ItemGroup>
 
 </Project>
