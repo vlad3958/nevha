@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Влад\\RiderProjects\\NevhamovnoHost\\nevhamovnoHost\\nevhamovnoHost.csproj": {}
+    "C:\\Users\\Влад\\RiderProjects\\nevhamovnoHost\\nevhamovnoHost\\nevhamovnoHost.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Влад\\RiderProjects\\NevhamovnoHost\\nevhamovnoHost\\nevhamovnoHost.csproj": {
+    "C:\\Users\\Влад\\RiderProjects\\nevhamovnoHost\\nevhamovnoHost\\nevhamovnoHost.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Влад\\RiderProjects\\NevhamovnoHost\\nevhamovnoHost\\nevhamovnoHost.csproj",
+        "projectUniqueName": "C:\\Users\\Влад\\RiderProjects\\nevhamovnoHost\\nevhamovnoHost\\nevhamovnoHost.csproj",
         "projectName": "nevhamovnoHost",
-        "projectPath": "C:\\Users\\Влад\\RiderProjects\\NevhamovnoHost\\nevhamovnoHost\\nevhamovnoHost.csproj",
+        "projectPath": "C:\\Users\\Влад\\RiderProjects\\nevhamovnoHost\\nevhamovnoHost\\nevhamovnoHost.csproj",
         "packagesPath": "C:\\Users\\Влад\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Влад\\RiderProjects\\NevhamovnoHost\\nevhamovnoHost\\obj\\",
+        "outputPath": "C:\\Users\\Влад\\RiderProjects\\nevhamovnoHost\\nevhamovnoHost\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Влад\\AppData\\Roaming\\NuGet\\NuGet.Config",
