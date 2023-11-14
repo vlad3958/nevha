@@ -1,1 +1,1 @@
-worker: dotnet nevhamovnoHost.dll
+worker: cd $HOME/heroku_output && ./nevhamovnoHost
