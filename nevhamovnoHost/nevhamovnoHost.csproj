@@ -11,4 +11,8 @@
       <PackageReference Include="Telegram.Bot" Version="20.0.0-alpha.1" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Content Include="Bot.csproj" />
+    </ItemGroup>
+
 </Project>
