@@ -1,1 +1,1 @@
-worker: cd $HOME/heroku_output && ./myBot
+worker: cd $HOME/heroku_output && ./nevhamovnoHost
